@@ -1,4 +1,4 @@
-import Icon from "../../Icons/Icon";
+import Icon from "../../icons/Icon";
 import { Link } from "react-router-dom";
 
 // icon 이름을 실제 경로로 매핑

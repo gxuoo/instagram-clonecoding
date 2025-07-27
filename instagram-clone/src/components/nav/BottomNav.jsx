@@ -1,5 +1,5 @@
 import React from "react";
-import Icon from "../Icons/Icon";
+import Icon from "../icons/Icon";
 
 const navItems = ["home", "explore", "reels", "create", "messages", "profile"];
 

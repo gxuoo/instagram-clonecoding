@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import Icon from "../Icons/Icon";
+import Icon from "../icons/Icon";
 import useFetch from "../../hooks/useFetch";
 import { API_ROUTES } from "../../constants/api";
 
